@@ -1,1 +1,1 @@
-db_password = 'Oraimo2019' 
+db_passwordd = 'Oraimo2019' 
